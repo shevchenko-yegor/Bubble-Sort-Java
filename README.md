@@ -1,5 +1,7 @@
 # Bubble-Sort-Java
-Efficient Bubble Sort Class on Java
+Efficient Bubble Sort Class on Java . <br/>
+You can use BubbleSort.java, just add to your package and create an object. <br/>
+Runner class is only for example.
 
 Method Details:
 =====================================
